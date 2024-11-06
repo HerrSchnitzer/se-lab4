@@ -1,0 +1,6 @@
+# Create a ship with stocked torpedo stores with both storage with 1 torpedo
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # should fired from Primary
+TORPEDO,SINGLE  # should fired from Secondary
+TORPEDO,SINGLE  # should not have fired from Primary
+TORPEDO,SINGLE  # should fired not have from Secondary
