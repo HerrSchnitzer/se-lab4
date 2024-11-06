@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores with primpary 1 failure
+GT4500,1,1,10,0
+TORPEDO,sIngle  # should not have fired from Primary nor Secondary
+EXIT
